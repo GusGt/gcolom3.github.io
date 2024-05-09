@@ -13,6 +13,27 @@ Escape the Dungeon
 - Analog gameplay
 - Physical meters
 
+Components:
+- Arduino Board x1
+- LED lights x3
+- analog joy stick x1
+- button x1
+- wires
+
+Initial Ideas:
+- side scroller platforming game
+- escape by always going to the right
+- wanted to base off the metroidvania style
+- Sound for gameplay features, shooting, coins, boss projectiles, etc
+- Analog controls (i.e. joystick)
+- Graphics, using sprites and tile sets for world generation
+
+Video of Game Working
+======
+link to video: https://www.youtube.com/watch?v=_P3l9O8JUOo&ab_channel=SinX
+link to arduino component video: https://youtube.com/shorts/PGjHs0q5oCs?feature=share
+
+
 Description
 ======
 Dungeon Escape is a platform game requiring players to traverse the obstacles and enemies. The player finds themselves stuck in a cave/dungeon, presumably from falling into a hole. Their main goal, escaping and seeing the sun once again. Aside from falling to their death, there are living enemies keen on protecting their home and will not surrender to the player. However, greed persists always, COINS are all over the dungeon, who in their right mind would just leave a pile of gold coins around in a cave! Something is up, there seems to be a malicious aura at the end of the dungeon, facing it is unavoidable. You must escape, your life can not end here. 

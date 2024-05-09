@@ -30,8 +30,8 @@ Initial Ideas:
 
 Video of Game Working
 ======
-link to video: https://www.youtube.com/watch?v=_P3l9O8JUOo&ab_channel=SinX
-link to arduino component video: https://youtube.com/shorts/PGjHs0q5oCs?feature=share
+- link to video: https://www.youtube.com/watch?v=_P3l9O8JUOo&ab_channel=SinX
+- link to arduino component video: https://youtube.com/shorts/PGjHs0q5oCs?feature=share
 
 
 Description
